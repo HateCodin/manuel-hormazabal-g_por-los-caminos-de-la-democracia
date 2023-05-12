@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Por los Caminos de la Democracia</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Manuel Hormazábal</dc:creator>
+    <dc:identifier opf:scheme="calibre" id="calibre_id">12fb775b-d4b7-4da2-9440-8c9ad56cdd47</dc:identifier>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">10862a5f-3d3c-4495-a52d-0ce6d3287ebb</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>spa</dc:language>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="style" href="css/style.css" media-type="text/css"/>
+    <item id="cover" href="img/portada.jpg" media-type="image/jpeg"/>
+    <item id="portada" href="txt/portada.xhtml" media-type="application/xhtml+xml"/>
+    <item id="portadaInterior" href="txt/portadaInterior.xhtml" media-type="application/xhtml+xml"/>
+    <item id="presentacion" href="txt/presentacion.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-1"  href="txt/capitulo_0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-2"  href="txt/capitulo_0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-3"  href="txt/capitulo_0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-4"  href="txt/capitulo_0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-5"  href="txt/capitulo_0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-6"  href="txt/capitulo_0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-7"  href="txt/capitulo_0007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-8"  href="txt/capitulo_0008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-9"  href="txt/capitulo_0009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-10" href="txt/capitulo_0010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-11" href="txt/capitulo_0011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-12" href="txt/capitulo_0012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-13" href="txt/capitulo_0013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-14" href="txt/capitulo_0014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-15" href="txt/capitulo_0015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-16" href="txt/capitulo_0016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-17" href="txt/capitulo_0017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-18" href="txt/capitulo_0018.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-19" href="txt/capitulo_0019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-20" href="txt/capitulo_0020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-21" href="txt/capitulo_0021.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-22" href="txt/capitulo_0022.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-23" href="txt/capitulo_0023.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-24" href="txt/capitulo_0024.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-25" href="txt/capitulo_0025.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-26" href="txt/capitulo_0026.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-27" href="txt/capitulo_0027.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-28" href="txt/capitulo_0028.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-29" href="txt/capitulo_0029.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-30" href="txt/capitulo_0030.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-31" href="txt/capitulo_0031.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-32" href="txt/capitulo_0032.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-33" href="txt/capitulo_0033.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-34" href="txt/capitulo_0034.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-35" href="txt/capitulo_0035.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-36" href="txt/capitulo_0036.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-37" href="txt/capitulo_0037.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-38" href="txt/capitulo_0038.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-39" href="txt/capitulo_0039.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-40" href="txt/capitulo_0040.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-41" href="txt/capitulo_0041.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-42" href="txt/capitulo_0042.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-43" href="txt/capitulo_0043.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-44" href="txt/capitulo_0044.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-45" href="txt/capitulo_0045.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-46" href="txt/capitulo_0046.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-47" href="txt/capitulo_0047.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cap-48" href="txt/capitulo_0048.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ap-1" href="txt/apendice_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ap-2" href="txt/apendice_002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ap-3" href="txt/apendice_003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ap-4" href="txt/apendice_004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ap-5" href="txt/apendice_005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notas" href="txt/notas.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="portada"/>
+    <itemref idref="portadaInterior"/>
+    <itemref idref="presentacion"/>
+    <itemref idref="cap-1"/>
+    <itemref idref="cap-2"/>
+    <itemref idref="cap-3"/>
+    <itemref idref="cap-4"/>
+    <itemref idref="cap-5"/>
+    <itemref idref="cap-6"/>
+    <itemref idref="cap-7"/>
+    <itemref idref="cap-8"/>
+    <itemref idref="cap-9"/>
+    <itemref idref="cap-10"/>
+    <itemref idref="cap-11"/>
+    <itemref idref="cap-12"/>
+    <itemref idref="cap-13"/>
+    <itemref idref="cap-14"/>
+    <itemref idref="cap-15"/>
+    <itemref idref="cap-16"/>
+    <itemref idref="cap-17"/>
+    <itemref idref="cap-18"/>
+    <itemref idref="cap-19"/>
+    <itemref idref="cap-20"/>
+    <itemref idref="cap-21"/>
+    <itemref idref="cap-22"/>
+    <itemref idref="cap-23"/>
+    <itemref idref="cap-24"/>
+    <itemref idref="cap-25"/>
+    <itemref idref="cap-26"/>
+    <itemref idref="cap-27"/>
+    <itemref idref="cap-28"/>
+    <itemref idref="cap-29"/>
+    <itemref idref="cap-30"/>
+    <itemref idref="cap-31"/>
+    <itemref idref="cap-32"/>
+    <itemref idref="cap-33"/>
+    <itemref idref="cap-34"/>
+    <itemref idref="cap-35"/>
+    <itemref idref="cap-36"/>
+    <itemref idref="cap-37"/>
+    <itemref idref="cap-38"/>
+    <itemref idref="cap-39"/>
+    <itemref idref="cap-40"/>
+    <itemref idref="cap-41"/>
+    <itemref idref="cap-42"/>
+    <itemref idref="cap-43"/>
+    <itemref idref="cap-44"/>
+    <itemref idref="cap-45"/>
+    <itemref idref="cap-46"/>
+    <itemref idref="cap-47"/>
+    <itemref idref="cap-48"/>
+    <itemref idref="ap-1"/>
+    <itemref idref="ap-2"/>
+    <itemref idref="ap-3"/>
+    <itemref idref="ap-4"/>
+    <itemref idref="ap-5"/>
+    <itemref idref="notas"/>
+  </spine>
+  <guide>
+	  <reference type="cover" title="Portada" href="txt/portada.xhtml"/>
+	  <reference type="other.halftitlepage" title="Portada Interior" href="txt/portadaInterior.xhtml"/>
+  </guide>
+</package>
